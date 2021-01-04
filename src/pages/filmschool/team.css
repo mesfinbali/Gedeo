@@ -1,0 +1,11 @@
+.roundedAboutGedeo{
+    /* border-top-left-radius: 100px; */
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius:  200px;
+    border-bottom-left-radius:  200px;
+  }
+  .aboucss{
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/white-bokeh-abstract-background-texture-printable-pretty.jpg") !important;
+
+  }
