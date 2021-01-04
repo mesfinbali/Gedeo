@@ -153,13 +153,13 @@ const HomeCultures = () => {
                   src="https://scontent.fadd1-1.fna.fbcdn.net/v/t1.0-9/131891165_111908404116051_1641016692222034637_n.jpg?_nc_cat=106&ccb=2&_nc_sid=0debeb&_nc_ohc=kbw1G_2rIJMAX-o0SPl&_nc_ht=scontent.fadd1-1.fna&oh=52efa0b516deef51d18dae792aeed6fa&oe=60197B61"
                   alt=""
                 />
-                <a href="Posts/album/?name=Documentaries&fbId=111881804118711">
+                <a href="Posts/album/?name=Cultural-Foods&fbId=111907827449442">
                   <MDBMask overlay="white-slight" className="waves-light" />
                 </a>
               </MDBView>
               <MDBRow className="mb-3  text-center">
                 <MDBCol size="12">
-                  <a href="Posts/album/?name=Documentaries&fbId=111881804118711"   >
+                  <a href="Posts/album/?name=Cultural-Foods&fbId=111907827449442"   >
                      <MDBBtn   color="success  " outline><MDBIcon icon="leaf" className="pr-2  " aria-hidden="true" />
                     <span className="font-weight-bold"> Cultural Foods</span> 
                     </MDBBtn> 
@@ -176,13 +176,13 @@ const HomeCultures = () => {
                   src="https://img.youtube.com/vi/zwCzoO4PE50/maxresdefault.jpg"
                   alt=""
                 />
-                <a href="Posts/album/?name=Documentaries&fbId=111881804118711">
+                <a href="Posts/album/?name=Histories&fbId=111910240782534">
                   <MDBMask overlay="white-slight" className="waves-light" />
                 </a>
               </MDBView>
               <MDBRow className="mb-3  text-center">
                 <MDBCol size="12">
-                  <a href="Posts/album/?name=Documentaries&fbId=111881804118711">
+                  <a href="Posts/album/?name=Histories&fbId=111910240782534">
                      
                     <MDBBtn   color="success  " outline><MDBIcon icon="leaf" className="pr-2  " aria-hidden="true" />
                     <span className="font-weight-bold"> Histories</span> 

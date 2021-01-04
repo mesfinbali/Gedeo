@@ -69,7 +69,7 @@ const HomeTourism = () => {
               />
               <MDBMask overlay="white-slight" />
             </MDBView>
-            <a className="pink-text">
+            <a className="pink-text"  href="Posts/album/?name=Attractions&fbId=111895950783963">
               <h4 className="font-weight-bold mb-3">
                 <MDBIcon icon="map" className="pr-2" />
                 Attractions
@@ -88,6 +88,9 @@ const HomeTourism = () => {
               Read more
             </MDBBtn>
           </MDBCol>
+
+
+
           <MDBCol lg="4" md="12" className="mb-lg-0 mb-4">
             <MDBView hover className="rounded z-depth-2 mb-4" waves>
               <img
@@ -97,7 +100,7 @@ const HomeTourism = () => {
               />
               <MDBMask overlay="white-slight" />
             </MDBView>
-            <a href="Posts/album/?name=Attractions&fbId=107205927919632" className="deep-orange-text">
+            <a href="Posts/album/?name=Events&fbId=107205927919632" className="deep-orange-text">
               <h4 className="font-weight-bold mb-3">
                 <MDBIcon icon="film" className="pr-2" />
                 Events
@@ -109,10 +112,14 @@ const HomeTourism = () => {
               At vero eos et accusamus et iusto odio dignissimos ducimus qui
               blanditiis voluptatum deleniti atque corrupti quos dolores.
             </p>
-            <MDBBtn color="deep-orange" rounded size="md" href="Posts/album/?name=Attractions&fbId=107205927919632" >
+            <MDBBtn color="deep-orange" rounded size="md" href="Posts/album/?name=Events&fbId=107205927919632" >
               Read more
             </MDBBtn>
           </MDBCol>
+
+
+
+
           <MDBCol lg="4" md="12" className="mb-lg-0 mb-4">
             <MDBView hover className="rounded z-depth-2 mb-4" waves>
               <img
@@ -122,7 +129,7 @@ const HomeTourism = () => {
               />
               <MDBMask overlay="white-slight" />
             </MDBView>
-            <a href="Posts/album/?name=Attractions&fbId=111878340785724" className="blue-text">
+            <a href="Posts/album/?name=Places&fbId=111878340785724" className="blue-text">
               <h4 className="font-weight-bold mb-3">
                 <MDBIcon icon="fire" className="pr-2" />
                 Places
@@ -133,7 +140,7 @@ const HomeTourism = () => {
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
               aut fugit, sed quia consequuntur magni dolores eos qui ratione.
             </p>
-            <MDBBtn color="info" rounded size="md"  href="Posts/album/?name=Attractions&fbId=111878340785724">
+            <MDBBtn color="info" rounded size="md"  href="Posts/album/?name=Places&fbId=111878340785724">
               Read more
             </MDBBtn>
           </MDBCol>
