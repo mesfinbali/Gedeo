@@ -56,4 +56,6 @@
 
 
  
-     
+     .HomeStartView{
+max-height: 35rem !important; 
+     }

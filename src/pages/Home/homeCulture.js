@@ -13,7 +13,7 @@ const HomeCultures = () => {
 {(!(window.location.pathname==""||window.location.pathname=="/"))&&
     <div id='parallaxintro'>
                 
-                <MDBView className='mdbparallaxHeader mb-4'
+                <MDBView className='mdbparallaxHeader '
                   src='https://scontent.fadd1-1.fna.fbcdn.net/v/t1.0-9/126404678_212481473606700_4787511284135086667_o.jpg?_nc_cat=102&ccb=2&_nc_sid=cdbe9c&_nc_ohc=JICjdbQKDGwAX-Wtcqq&_nc_ht=scontent.fadd1-1.fna&oh=a4b006ac110ab307f7b1afe5117583ae&oe=5FF19D59'
                   fixed
                 >
@@ -55,7 +55,7 @@ const HomeCultures = () => {
      }   
 
     <MDBCard
-        className="my-5 px-5 "
+        className="  px-5 culturebg"
         style={{ fontWeight: 300, maxWidth: "100%" }}
       >
         <MDBCardBody style={{ paddingTop: 0 }}>

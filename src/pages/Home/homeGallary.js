@@ -16,11 +16,10 @@ const EcommercePage = () => {
         totam voluptas nostrum quisquam eum porro a pariatur veniam.
       </p> */}
       <MDBRow>
-        <MDBCol lg="6" md="6" className="mb-lg-0 mt-5  mb-5">
+        <MDBCol lg="6" md="6" className="mb-lg-0 mt-5  mb-5 ">
           <MDBCard collection className="z-depth-1-half">
-            <div className="view viewGallery zoom">
-              <img
-                         src="https://scontent.fadd1-1.fna.fbcdn.net/v/t1.0-9/129232642_103012098339015_4918215099290192828_o.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=DYMvnnVZIrgAX-wceC0&_nc_ht=scontent.fadd1-1.fna&oh=19f0b34e0eb8be7510f58e7ce1721190&oe=5FEE763E"
+            <div className="view viewGallery zoom ">
+              <img  src="https://scontent.fadd1-1.fna.fbcdn.net/v/t1.0-9/129232642_103012098339015_4918215099290192828_o.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=DYMvnnVZIrgAX-wceC0&_nc_ht=scontent.fadd1-1.fna&oh=19f0b34e0eb8be7510f58e7ce1721190&oe=5FEE763E"
                          className="img-fluid"
                 alt=""
               />
